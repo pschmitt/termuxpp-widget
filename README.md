@@ -7,6 +7,11 @@ For upstream Termux:Widget, see <https://github.com/termux/termux-widget>. This 
 
 A [Termux] plugin app to run scripts in Termux with launcher shortcuts and widgets.
 
+> **TermuxPP release channel:** New builds are published in the
+> [TermuxPP monorepo](https://github.com/pschmitt/termuxpp/releases/tag/latest).
+> Existing releases here remain available to older clients. See the
+> [self-update guide](https://github.com/pschmitt/termuxpp/blob/main/docs/en/self-update.md).
+
 
 
 ### Contents
